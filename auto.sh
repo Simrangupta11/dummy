@@ -2,7 +2,7 @@
 
 # Variables
 name="tayyab"
-s3_bucket="your_bucket"
+s3_bucket="mydummybucket11"
 
 # update the ubuntu repositories
 apt update -y
